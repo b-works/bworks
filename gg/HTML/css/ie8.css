@@ -1,0 +1,13 @@
+#boxed #wrapper { 
+	border-color:#ddd;
+	}
+
+.sf-menu li ul { 
+	padding:0;
+	border:1px solid #ddd; 
+	border-bottom:0px solid #ddd; 
+	}
+
+.sf-menu li ul li { 
+	border-bottom:1px solid #ddd; 
+	}
